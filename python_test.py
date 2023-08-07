@@ -1,5 +1,5 @@
 print('Avijit')
-print("My name is avijit Biswas")
-print("Now i am going to start Programing")
+print("This is ok. Right?")
+print("Now i am going to start Programing. I am avijit Biswas")
 print('This is last')
 print('Thank You')
